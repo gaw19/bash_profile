@@ -1,0 +1,6 @@
+Bundle 'Lokaltog/vim-easymotion'
+Bundle 'twe4ked/vim-peepopen'
+Bundle 'Raimondi/delimitMate'
+Bundle 'Valloric/YouCompleteMe'
+Bundle 'Lokaltog/powerline'
+Bundle 'rizzatti/dash.vim'

@@ -1,0 +1,6 @@
+# Add your local tmux config here
+set-window-option -g pane-base-index 1
+set-option -g prefix C-b
+unbind-key C-b
+bind-key C-b send-prefix
+set-option -g set-titles on
